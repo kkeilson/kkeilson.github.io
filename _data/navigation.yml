@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: https://keilson.org/resume
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Contact"
+    url: /contact/
