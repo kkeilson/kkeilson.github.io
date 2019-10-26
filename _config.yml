@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Keilson"
-  avatar           : "profile.png"
+  avatar           : "http://keilson.org/resume/images/avatar.jpg"
   bio              : "IT Professional"
   location         : "Sarasota, FL"
   employer         :
