@@ -21,8 +21,8 @@ Services Offered
 
 For more info
 ------
-More info can be requested at [Contact](/contact/).
+More info can be requested at [Contact](https://portfolio.keilson.org/contact).
 
 Bio
 ------
-More info can be requested at [CV](/cv/).
+More info can be requested at [CV](https://keilson.org/resume).
